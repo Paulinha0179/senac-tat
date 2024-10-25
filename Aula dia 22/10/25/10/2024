@@ -1,0 +1,27 @@
+cat: exibe o conteúdo de arquivos.
+
+cat -n: exibe o conteúdo numerando as linhas.
+Redirecionar a saída dos arquivos: > para sobrescrever ou >> para adicionar ao final.
+tac: exibe o conteúdo de um arquivo na ordem inversa (de trás para frente).
+
+Exemplo: cat -n senai.txt | tac exibe o arquivo numerado em ordem decrescente.
+tail: lê as últimas 10 linhas de um arquivo.
+
+Exemplo: tail arquivo.txt.
+head: lê as primeiras 10 linhas de um arquivo.
+
+Exemplo: head arquivo.txt.
+less: visualiza o conteúdo de arquivos de texto, permitindo navegação.
+
+cp: copia arquivos ou diretórios.
+
+-v: modo detalhado, exibe o que está sendo copiado.
+Exemplo: cp -v arquivo.txt bkp_arquivo.txt.
+mv: move ou renomeia arquivos.
+
+Exemplo para mover: mv arquivo.txt pasta/.
+Exemplo para renomear: mv arquivo.txt novo_nome.txt.
+rm: remove arquivos.
+
+Exemplo: rm arquivo.txt.
+Esses são os comandos principais com suas respectivas funções e exemplos.
