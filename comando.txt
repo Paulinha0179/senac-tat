@@ -1,0 +1,278 @@
+    1  sudo
+    2  sodo-i
+    3  sodo -i
+    4  sudo -i
+    5  sudo apt update 
+    6  sudo apt upgrande
+    7  sudo apt upgrade
+    8  sudo apt full-upgrade 
+    9  sudo apt dist-upgrade 
+   10  sudo apt autoremove 
+   11  sudo apt autoclean 
+   12  history 
+   13  sudo reboot
+   14  sudo apt update
+   15  sudo apt install git vim kolourpaint 
+   16  sudo poweoff
+   17  sudo poweroff
+   18  sudo apt update
+   19  mit update
+   20  pwd
+   21  ls
+   22  cd 
+   23  mkdir SENAC
+   24  mkdir senac
+   25  ls
+   26  mkdir senac-tat
+   27  cd SENAC/
+   28  mkdir -v CAS PEN TAT
+   29  ls
+   30  cd TAT
+   31  mdkir TEI TST
+   32  mkdir -v TEI TST
+   33  ls
+   34  cd TEI
+   35  ls -lh
+   36  touch senac.txt senai.txt sesc.txt
+   37  ls -lh
+   38  echo "Tatuapé"
+   39  echo "Tatuapé"> senac.txt
+   40  echo "Guarulhos"> senai.txt
+   41  echo "Santana"> sesc.txt
+   42  ls -lh
+   43  cat senai.txt
+   44  cat -n senai.txt
+   45  echo "Vila Maria"> senai.txt
+   46  cat senai.txt
+   47  cat -n senai.txt
+   48  echo "itaquera">> senai.txt
+   49  cat -n senai.txt
+   50  echo "Bras">> senai.txt
+   51  cat -n senai.txt
+   52  cat -n senai.txt
+   53  cat -n senai.txt | tac
+   54  tail /etc/services
+   55  head /etc/services
+   56  cat -n /etc/services
+   57  tail -n3 /etc/services
+   58  head -n3/etc/services
+   59  head -n3 /etc/services
+   60  cat -n /etc/services |tail -n3
+   61  cat -n /etc/services |head -n3
+   62  head -200 /etc/services |tail -n101 | nl -v 100
+   63  cat -n etc/services | head -n200 |tail -n101
+   64  cat -n /etc/services | head -n200 |tail -n101
+   65  cat -n /etc/services | head -n200 |tail -n101 |less
+   66  cat -n /etc/services | head -n200 |tail -n101 >vava.txt
+   67  ls-lh
+   68  ls -lh
+   69  cat -n vava.txt
+   70  less  vava.txt 
+   71  less  vava.txt  ls -lh
+   72  less  vava.txs -lh
+   73  ls -lh
+   74  cp vava.txt ramos.txt
+   75  ls -lh
+   76  cp -v ramos.txt senai.txt
+   77  ls -lh
+   78  ls -lh ../
+   79  ls -lh ../../
+   80  cp vava.txt ../T
+   81  ls -lh ../../PEN
+   82  ls -lh ../../PEN/
+   83  mkdir -v bkp
+   84  ls -lh
+   85  cp -v *.txt bkp/
+   86  mv -v vava.txt vaamonde.md
+   87  ls -lh
+   88  mv -v ramos.txt ../TST/leandro.md
+   89  rm -v sesc.txt
+   90  rm -v TEI
+   91  CD ..
+   92  LS
+   93  rm -RV TST/
+   94  rm -Rv TST/
+   95  rm -RFV TST/
+   96  ls
+   97  sudo dpkg -i code_1.94.2-1728494015_amd64.deb 
+   98  sudo apt update
+   99  cd 
+  100  mddir
+  101  cd
+  102  cd..
+  103  cd ..
+  104  mdkir AnaGomes
+  105  mkidr + anagomes
+  106  mkdir Ana Gomes
+  107  mkdir AnapaulaGomes
+  108  mkdir AnaPaulaGomes
+  109  Mkdir AnapaulaGomes
+  110  mikdir AnaPaulaGomes
+  111  Mkdir AnaPaulaGomes
+  112  Mkdir Anagomes
+  113  cd AnaGomes
+  114  ls - lh
+  115  ls -lh
+  116  mkdir AnapaulaGomes
+  117  ls -lh
+  118  cd AnapaulaGomes/
+  119  mkdir -v SESC
+  120  cd SESC/
+  121  mkdir -v Bel
+  122  cd Bel/
+  123  echo "Danças Brasileiras" > danca.txt
+  124  echo "Danças de Salão">> danca.txt
+  125  cat -n Danca.txt
+  126  echo "Danças de Salão" >> danca.txt
+  127  cat -nDanca.txt
+  128  echo "Danças de Salão" >> danca.txt
+  129  cat -n danca.txt 
+  130  echo "Danças Brasileiras" >danca.txt
+  131  echo "Danças de Salão">> danca.txt
+  132  cat -nDANCA.txt
+  133  cat -n danc.txt
+  134  cat -n danca.txt
+  135  cd ../
+  136  mkidr -v SAN
+  137  cd ../
+  138  mkidr -v SAN
+  139  mkdir -v SAN
+  140  cd SAN/
+  141  echo "Crawl" > natacao.md
+  142  echo "Peito" >> natacao.md 
+  143  echo "Costa" >> natacao.md
+  144  echo "Borboleta" >> natacao.md
+  145  cat -n natacao.md
+  146  cd../
+  147  cd ../
+  148  mkidr -v ITA
+  149  mkdir -v ITA
+  150  cd ../
+  151  echo "meia lua de frente" >> capoeira.sh
+  152  echo "meia lua de compasso" >> capoeira.sh
+  153  echo "Pisa Rodado" >> capoeira.sh
+  154  cat -n capoeira.sh
+  155  cd ../../
+  156  mkdir -v SENAI
+  157  cd ../../
+  158  cd ../
+  159  cd ~
+  160  cd AnapaulaGomes
+  161  cd SENAI
+  162  mkdir -v SENAI
+  163  mkdir -v BRA
+  164  cd BRA/
+  165  cd Torneira/
+  166  mkdir -v Torneira
+  167  cd Torneira/
+  168  cd AnapaulaGomes
+  169  mkdir AnapaulaGomes
+  170  ls  -lh
+  171  cd AnapaulaGomes
+  172  Mkdir -v SENAC
+  173  mkdir -v SENAC
+  174  mkidr AnapaulaGomes
+  175  mkdir AnaGomes
+  176  ls -lh
+  177  mkdir -v SESC
+  178  cd SESC/
+  179  mkdir -v BEL/
+  180  CD BEL/
+  181  cd BEL
+  182  echo "Danças Brasileiras" > danca.txt
+  183  echo "Danças Salao">> danca.txt
+  184  cat -n danca.txt
+  185  cd ../
+  186  mkdir -v SAN
+  187  cd SAN/
+  188  echo "Crawl" > natacao.md
+  189  echo "Peito">> natacao.md
+  190  echo "Costas">> natacao.md
+  191  echo "Borboleta">> natacao.md
+  192  cat -n natacao.md
+  193  cd ../
+  194  mkdir -v ITA
+  195  cd ITA/
+  196  echo "Meia Lua de Frente" > capoeira.sh
+  197  echo "Meia Lua de Compasso" >> capoeira.sh
+  198  echo "Pisao Rodado" >> capoeira.sh
+  199  -n capeira.sh
+  200  cat -n capoeira.sh
+  201  cd ../../
+  202  mkdir -v SENAI
+  203  mkdir -v BRA
+  204  cd BRA/
+  205  mkdir -v Tornearia
+  206  cd Tornearia/
+  207  echo " Turma A: 01/11 até 30/11" >> call_nov_2024.txt
+  208  cd ../
+  209  mkdir -v Fresagem
+  210  cd Fresagem/
+  211  echo " Turma B: 01/12 até 31/12" >> call_nov_2025.txt
+  212  cd ../
+  213  mkdir -v Soldagem
+  214  echo " Turma C: 01/01 até 31/01" >> call_jan_2025.txt
+  215  cat ../../
+  216  cd ../../
+  217  cd ~
+  218  mkidr AnapaulaGomes
+  219  cd AnaGomes
+  220  cd ../../
+  221  mkdir GUA
+  222  cd senac/
+  223  ls
+  224  cd AnaGomes/
+  225  ls
+  226  cd ..
+  227  mv SENAC AnaGomes/
+  228  mv SENAI AnaGomes/
+  229  mv SENAC AnaGomes/
+  230  mv SESC AnaGomes/
+  231  cd AnaGomes/
+  232  ls
+  233  cd SENAC
+  234  cd ..
+  235  ls
+  236  cd SESC/
+  237  CD ..
+  238  ls -lh
+  239  cd ../
+  240  cd SENAI
+  241  mkdir -v BRA
+  242  mkdir -v GUA
+  243  mkdir -v TAT
+  244  mkdir -v PJS
+  245  cd BRA/
+  246  mkdir -v Tornearia
+  247  cd Tornearia/
+  248  echo "Turma A: 01/11 até 30/11" > cal_nov_2024.txt
+  249  cd ../
+  250  mkdir -v Fresagem
+  251  cd Fresagem/
+  252  echo "Turma B: 01/12 até 31/12" > cal_dez_2024.txt
+  253  cd ../
+  254  mkdir -v Soldagem 
+  255  cd Soldagem/
+  256  echo "Turma C: 01/01 até 31/01" > cal_jan_2025.txt
+  257  cd ../../
+  258  cd GUA/
+  259  mkdir -v Eletricista
+  260  cd Eletricista/
+  261  echo "Turma A: 01/01 até 31/01" > cal_jan_2025.txt
+  262  CD ../../
+  263  cd ../../
+  264  cd TAT/
+  265  mkdir -v Drywall
+  266  cd Drywall/
+  267  echo "Turma A: 01/11 até 30/11" > cal_jan_2024.md
+  268  cd ../../
+  269  cd PJS/
+  270  mkdir -v Empilhadeira 
+  271  cd Empilhadeira/
+  272  echo "Turma A: 01/01 até 31/01" > cal_jan_2025.sh
+  273  cd 
+  274  sudo apt update
+  275  sudo apt install tree
+  276  tree -h AnaGomes/
+  277  history
+  278  history > comando.txt
